@@ -1,0 +1,15 @@
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-size: 4rem;
+    color: #e411d9;
+    padding-top: 20rem;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
